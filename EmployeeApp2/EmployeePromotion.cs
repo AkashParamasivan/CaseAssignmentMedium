@@ -16,10 +16,10 @@ namespace EmployeeApp2
 			
 			//-----inserting details-------
 			em.InsertInfo();
-			
+
 			//---------sorting employee list----------------
 
-			em.SortAndPrintEmployees();
+			//em.SortAndPrintEmployees();
 
 
 			//----------PrintEmployeeDetails------------
@@ -29,11 +29,11 @@ namespace EmployeeApp2
 
 			//---------PrintNameInfo----------------
 
-			em.PrintNameInfo();
+			//em.PrintNameInfo();
 
 			//----------Find&CompareElderInfo-------
 
-			em.FindCompareElderInfo();
+			//em.FindCompareElderInfo();
 
 		
 			
